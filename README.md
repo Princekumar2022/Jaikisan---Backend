@@ -5,7 +5,7 @@ Install Dependencies First
 npm install
 In the project directory, you can run:
 npm start
-# Run BackEnd Port :3001
+# Run BackEnd Port :3000
 Problem Statement:
 Create two API’s which can perform the specified CRUD operations.The project structure should
 have models, middlewares, controllers and services. Write MongoDB queries to fetch, update,
